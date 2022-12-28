@@ -267,7 +267,7 @@
 
 ## 🌐 Architecture
 
-![image](https://user-images.githubusercontent.com/99253403/207947922-5c8d3371-8659-4b56-84ab-5db931993318.png)
+![hh99_9_C4_MVP](https://user-images.githubusercontent.com/99253403/209768628-7564a2a1-7da0-43ad-b791-733998374433.png)
 
 <br>
 
